@@ -33,7 +33,6 @@ The python code should be sent back to Z-Tech in whatever file format you prefer
 
 *   Feel free to use any code development tool that you prefer;
 *   The authorization documentation can be found here: [https://developer.marvel.com/documentation/authorization](https://developer.marvel.com/documentation/authorization);
-*   One of the authorization parameters is a MD5 hash. Do not spend too much time with this logic;
 *   We recommend using Postman to test your requests;
 *   API's responses can be paginated when the return is too large. Pay attention to that;
 *   Test it!
