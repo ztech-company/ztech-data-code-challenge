@@ -1,5 +1,4 @@
-![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.12.png?raw=true)
-https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.12.png
+
 
 # Data Engineering Python Test
 
@@ -16,14 +15,7 @@ To choose the correct hero, the Data Engineering Team has to provide for the Dat
 ## Technical Goal:
 
 Create a dataframe in Python with all the information mentioned above, using Marvel's Characters API. The dataframe should be similar to this:
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.12.png?raw=true)
 
 **Requirements**:
 
