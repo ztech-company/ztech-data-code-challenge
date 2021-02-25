@@ -24,15 +24,12 @@ Create a dataframe in Python with all the information mentioned above, using Mar
 1. Access Marvel's Developers website ([https://developer.marvel.com/](https://developer.marvel.com/)) and create an account;
 2. Generate your own API Key. 
 3. Study the endpoint provided by Marvel, which can be found here: [https://developer.marvel.com/docs](https://developer.marvel.com/docs).
-https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.35.png
-
+![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.35.png?raw=true)
 
 The python code should be sent back to Z-Tech in whatever file format you prefer. We will run your code with Databricks or Jupyter Notebook.
 
 
 ## Tips:
-
-
 
 *   Feel free to use any code development tool that you prefer;
 *   The authorization documentation can be found here: [https://developer.marvel.com/documentation/authorization](https://developer.marvel.com/documentation/authorization);
