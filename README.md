@@ -1,3 +1,5 @@
+![alt text](https://github.com/rodolfoshideki/ztech-company/blob/ztech-data-code-challenge/Screen Shot 2021-02-25 at 18.54.12.png?raw=true)
+
 # Data Engineering Python Test
 
 
