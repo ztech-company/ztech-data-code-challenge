@@ -1,4 +1,5 @@
-![alt text](https://github.com/rodolfoshideki/ztech-company/blob/ztech-data-code-challenge/Screen Shot 2021-02-25 at 18.54.12.png?raw=true)
+![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.12.png?raw=true)
+https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Screen%20Shot%202021-02-25%20at%2018.54.12.png
 
 # Data Engineering Python Test
 
