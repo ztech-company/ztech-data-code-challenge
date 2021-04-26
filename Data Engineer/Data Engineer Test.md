@@ -24,7 +24,9 @@ Create a dataframe in Python with all the information mentioned above, using Mar
 1. Access Marvel's Developers website ([https://developer.marvel.com/](https://developer.marvel.com/)) and create an account;
 2. Generate your own API Key. 
 3. Study the endpoint provided by Marvel, which can be found here: [https://developer.marvel.com/docs](https://developer.marvel.com/docs).
-![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Data%20Engineer/Screen%20Shot%202021-02-25%20at%2018.54.35.png?raw=true)
+![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Data%20Engineer/Screen%20Shot%202021-02-25%20at%2018.54.35.png?raw=true);
+4. Don't use Marvel's Python Library!
+5. Your dataframe should contain all Marvel's heroes: 1493 characters, approximately.
 
 The python code should be sent back to Z-Tech in whatever file format you prefer. We will run your code with Databricks or Jupyter Notebook.
 
