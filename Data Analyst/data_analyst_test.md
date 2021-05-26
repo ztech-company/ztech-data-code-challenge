@@ -1,4 +1,4 @@
-## Desafio Data Engineering - SQL
+## Desafio Data Analyst - SQL
 
 ### 1. Desafio de representatividade dos ads
 
