@@ -52,35 +52,7 @@ Considere o modelo de vendas abaixo:
 Os usuários nos reportaram um problema: Quando o cliente altera o estado civil na plataforma transacional, representada pela coluna  *MaritalStatus* na tabela *Customer* no modelo multi-dimensional , essa atualização é refletida para todas os registros anteriores de vendas (tabela *Sales*) no dashboard de vendas. Como podemos resolver isto alterando o modelo?
 
 
-### 3. Problema: troca de lugares
-Mary é professora de uma escola e tem um assento na mesa para armazenar os nomes dos alunos e os respectivos IDs de assento. O ID da coluna é um incremento contínuo. Mary quer trocar de lugar para os alunos adjacentes.
-
-Você pode escrever uma consulta SQL para gerar o resultado para Mary?
-
-
-|    id   | student |
-|   ---   |   ---   |
-|    1    | Abbot   |
-|    2    | Doris   |
-|    3    | Emerson |
-|    4    | Green   |
-|    5    | Jeames  |
-
-Para a entrada de amostra, a saída é:
-
-|    id   | student |
-|   ---   |   ---   |
-|    1    | Doris   |
-|    2    | Abbot   |
-|    3    | Green   |
-|    4    | Emerson |
-|    5    | Jeames  |
-
-Nota:
-Se o número de alunos for ímpar, não há necessidade de alterar o assento do último aluno.
-
-
-### 4. Problema: Salário mais alto do departamento
+### 3. Problema: Salário mais alto do departamento
 A tabela Employee contém todos os funcionários. Todo funcionário tem um ID, um salário e também há uma coluna para o ID do departamento.
 
 | Id  | Name  | Salary | DepartmentId |
