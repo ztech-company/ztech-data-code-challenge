@@ -15,7 +15,8 @@ To choose the correct hero, the Data Engineering Team has to provide for the Dat
 ## Technical Goal:
 
 Create a dataframe in Python with all the information mentioned above, using Marvel's Characters API. The dataframe should be similar to this:
-![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Data%20Engineer/Screen%20Shot%202021-02-25%20at%2018.54.12.png?raw=true)
+![alt text](https://github.com/ztech-company/ztech-data-code-challenge/blob/main/Data%20Engineer/Screen%20Shot%202021-07-12%20at%2011.12.45.png?raw=true)
+
 
 **Requirements**:
 
